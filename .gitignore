@@ -1,0 +1,40 @@
+# Ignore NetBeans specific files
+/nbproject/private/
+/build/
+/dist/
+/nbbuild/
+/nbdist/
+/nbactions.xml
+/nb-configuration.xml
+
+# Ignore IDE specific files
+/.idea/
+/.vscode/
+/*.iml
+
+# Ignore build files
+/target/
+/bin/
+/out/
+
+# Ignore dependency management files
+/.mvn/
+/.m2/
+/.gradle/
+/*.war
+/*.jar
+/*.ear
+
+# Ignore logs and temp files
+/logs/
+/*.log
+/tmp/
+/*.tmp
+/.DS_Store
+
+# Ignore compiled Java classes
+/**/*.class
+
+# Ignore environment-specific configuration files
+.env
+*.swp
